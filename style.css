@@ -1,0 +1,26 @@
+nav,
+.offcanvas-header {
+    background-color: #6610f2;
+}
+
+.btn {
+    background-color: #6610f2;
+    border-color: #6610f2;
+}
+
+.btn:hover {
+    border-color: #6610f2;
+    color: #6610f2;
+}
+
+#bootstrap {
+    color: #6610f2;
+}
+
+.card-body {
+    border-color: #6610f2;
+}
+
+footer .btn {
+    border-radius: 50%;
+}
